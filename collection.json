@@ -1,14 +1,37 @@
 [
     {
+        "id": 0,
+        "title": "demo title0",
+        "bio": "demo bio1",
+        "advice": "demo advice1",
+        "image_url": "http://storage.kun.uz/source/1/I2rOFNdRrQ8yDZTMOw0sUIW0r-lymD6F.jpg"
+    },
+    { 
+        "id": 1,
         "title": "demo title1",
+        "bio": "demo bio2",
+        "advice": "demo advice2",
+        "image_url": "http://storage.kun.uz/source/1/I2rOFNdRrQ8yDZTMOw0sUIW0r-lymD6F.jpg"
+    },
+    {
+        "id": 2,
+        "title": "demo title2",
         "bio": "demo bio1",
         "advice": "demo advice1",
         "image_url": "http://storage.kun.uz/source/1/I2rOFNdRrQ8yDZTMOw0sUIW0r-lymD6F.jpg"
     },
     {
-        "title": "demo title2",
-        "bio": "demo bio2",
-        "advice": "demo advice2",
+        "id": 3,
+        "title": "demo title3",
+        "bio": "demo bio1",
+        "advice": "demo advice1",
+        "image_url": "http://storage.kun.uz/source/1/I2rOFNdRrQ8yDZTMOw0sUIW0r-lymD6F.jpg"
+    },
+    {
+        "id": 4,
+        "title": "demo title4",
+        "bio": "demo bio1",
+        "advice": "demo advice1",
         "image_url": "http://storage.kun.uz/source/1/I2rOFNdRrQ8yDZTMOw0sUIW0r-lymD6F.jpg"
     }
 ]
